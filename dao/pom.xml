@@ -12,4 +12,11 @@
     <artifactId>ssm-dao</artifactId>
     <packaging>jar</packaging>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.ly</groupId>
+            <artifactId>ssm-entity</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 </project>
